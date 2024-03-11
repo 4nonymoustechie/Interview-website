@@ -96,9 +96,11 @@ margin-bottom: 10px;
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   margin-top: 50px;
   padding-top: 20px;
+  text-align: center;
 }
 .front{
   width: 500px;
+
 }
 .ends{
   font-size: 25px;
@@ -129,4 +131,17 @@ margin-bottom: 10px;
   align-items: center;
 
 
+}
+.cont{
+   display: flex;
+   align-items: center;
+   font: 40px;
+   gap: 10px;
+   justify-items: center;
+   justify-content: center;
+   margin-left: 25px;
+}
+.contact{
+  width: 35px;
+ 
 }
